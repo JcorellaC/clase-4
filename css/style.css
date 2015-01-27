@@ -1,0 +1,27 @@
+h1{
+	border-bottom: solid;
+}
+
+input{
+	display: block;
+	border-width: 2px;
+	border-bottom-color: #EBEBEB;
+	border-right-color: #EBEBEB;
+	border-top-color: #BDBDBD;
+	border-left-color: #BDBDBD;
+	padding: 5px;
+	padding-right: 8rem;
+	font-size: 17px;
+	border-radius: 8px;
+}
+
+textarea{
+	display: block;
+	border-width: 2px;
+	border-bottom-color: #EBEBEB;
+	border-right-color: #EBEBEB;
+	border-top-color: #BDBDBD;
+	border-left-color: #BDBDBD;
+	font-size: 17px;
+	border-radius: 8px;
+}
